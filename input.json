@@ -1,0 +1,38 @@
+{"Input":[
+{
+    "Name": "PortoRiverside.mp4",
+    "Configurations": ["3x2","3x3","4x2","4x4","5x5"],
+    "Bitrates": ["2000000","4000000","8000000"],
+    "Segment_Durations":["1000","2000","4000","6000"]
+},
+{
+    "Name": "Ocean.mp4",
+    "Configurations": ["3x2","3x3","4x2","4x4","5x5"],
+    "Bitrates": ["2000000","4000000","8000000"],
+    "Segment_Durations":["1000","2000","4000","6000"]
+},
+{
+    "Name": "Cockpit.mp4",
+    "Configurations": ["3x2","3x3","4x2","4x4","5x5"],
+    "Bitrates": ["2000000","4000000","8000000"],
+    "Segment_Durations":["1000","2000","4000","6000"]
+},
+{
+    "Name": "Diner.mp4",
+    "Configurations": ["3x2","3x3","4x2","4x4","5x5"],
+    "Bitrates": ["2000000","4000000","8000000"],
+    "Segment_Durations":["1000","2000","4000","6000"]
+},
+{
+    "Name": "DroneFlight.mp4",
+    "Configurations": ["3x2","3x3","4x2","4x4","5x5"],
+    "Bitrates": ["2000000","4000000","8000000"],
+    "Segment_Durations":["1000","2000","4000","6000"]
+},
+{
+    "Name": "Fountain.mp4",
+    "Configurations": ["3x2","3x3","4x2","4x4","5x5"],
+    "Bitrates": ["2000000","4000000","8000000"],
+     "Segment_Durations":["1000","2000","4000","6000"]
+}
+]}
